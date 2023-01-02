@@ -1,8 +1,8 @@
 {
-    "name": "Launcher Wania",
-    "preductname": "Launcher Wania",
+    "name": "Wania",
+    "preductname": "Wania",
     "version": "1.1.1",
-    "description": "Launcher Wania",
+    "description": "Wania",
     "main": "src/app.js",
     "author": "Luuxis",
     "url": "http://wania.fr/hebergement/launcher2",
